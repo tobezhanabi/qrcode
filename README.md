@@ -24,7 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [solution URL here](https://github.com/tobezhanabi/qrcode)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -56,6 +56,6 @@ I use this challenge to learn how to use multiple classes for a tag. I can now c
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+
+- Frontend Mentor - [@tobezhanabi](https://www.frontendmentor.io/profile/tobezhanabi)
+- Twitter - [@hanabiplug](https://www.twitter.com/hanabiplug)
