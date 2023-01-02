@@ -20,12 +20,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![image](https://user-images.githubusercontent.com/71990996/210207636-ddd70129-af07-4bb7-ae06-9e0ad4890061.png)
 
 ### Links
 
 - Solution URL: [solution URL here](https://github.com/tobezhanabi/qrcode)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live site URL](https://tobezhanabi.github.io/qrcode/)
 
 ## My process
 
