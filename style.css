@@ -8,11 +8,16 @@ body {
   background-color: #d6e2f0;
   font-family: "Specimen", sans-serif;
   line-height: 1.2;
+
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 /* Utilities */
 .container {
   max-width: 370px;
-  margin: 0 auto;
+  margin: 200px;
   overflow: auto;
   padding: 0 40px;
 }
@@ -28,18 +33,18 @@ body {
 
 /* style */
 
-.qrcode img {
+main img {
   width: 100%;
   border-radius: 10px;
 }
-.qrcode h2,
-.qrcode p {
+main h2,
+main p {
   text-align: center;
   padding: 5px 10px;
   margin: 10px 0;
 }
 
-.qrcode p {
+main p {
   color: #7b879d;
   padding: 15px;
 }
