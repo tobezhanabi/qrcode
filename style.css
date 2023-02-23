@@ -8,6 +8,9 @@ body {
   background-color: #d6e2f0;
   font-family: "Specimen", sans-serif;
   line-height: 1.2;
+   display: grid;
+    min-height: 100vh;
+    place-content: center;
 }
 /* Utilities */
 .container {
